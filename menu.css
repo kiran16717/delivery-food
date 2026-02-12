@@ -1,0 +1,229 @@
+*{
+   margin: 0%;
+   padding: 0%; 
+}
+body{
+    min-height: 100vh;
+   /** background-image: url("../images/food.jpg");**/
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: 0;
+    
+
+}
+#navbar{
+    background-color:black;
+}
+#HungrYHub-logo{
+    margin:40px 530px ;
+
+}
+.fa-cart-shopping{
+    color:white;
+   float: right; 
+   margin-top: -135px;
+}
+.cart_txt{
+    color:white;
+    float: right;
+    margin-top: -120px;
+    font-family: 'Roboto Mono',monospace;
+    margin-right: 10px;
+    
+}
+.fa-mobile{
+    color: whitesmoke;
+    margin-top: -130px;
+    float: left;
+    height: 43px;
+    margin-left: 10px;
+}
+.sub-txt{
+    margin-top: 20px;
+    color: burlywood;
+
+}
+.sub-txt:hover{
+    color: crimson;
+}
+.num_txt{
+    color:whitesmoke;
+    float: left;
+    margin-top: -120px;
+}
+.num_txt:hover{
+    color: brown;
+}
+.num{
+    margin-left: 50px;
+}
+#content{
+    overflow: hidden;
+    background-color: transparent;
+    list-style-type: none;
+    
+
+}
+#li{
+    float: left;
+      font-family: "Pirata One", cursive;
+       font-weight: 400;
+       font-size: 30px;
+       padding-bottom: 40px;
+       box-shadow: 1px 14px 13px -2px #E6EAFF;
+
+    
+}
+#li a:hover{
+    color: cyan;
+}
+#li a{
+    color: wheat;
+    text-decoration: none;
+    margin: 0px 80px;
+}
+.active{
+    margin-left: 300px;
+    border-top: 2px solid rgb(166, 138, 138);
+    
+}
+#header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#menu{
+    background-color: black;
+}
+#pizza{
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    letter-spacing: 3px;
+    font-size: 50px;
+}
+#pizza1{
+    float: left;
+    height: 400px;
+    margin-left: 50px;
+}
+#pizza2{
+    float: right;
+    height: 400px;
+    margin-right: 50px;
+}
+#pizza3{
+    height: 400px;
+    margin-top: 100px;
+    margin-right: 400px;
+     margin-left: 50px;
+}
+#pizza4{
+    height: 400px;
+    margin-top: 100px ;
+    float: right;
+    margin-right: 50px;
+}
+#btn-1{
+    position: absolute;
+    left: 180px;
+    bottom: 115px;
+    background-color: transparent;
+    border: 2px solid gray;
+    font-size: 20px;
+    color: white;
+    opacity: 0.5;
+    transition: 0.5s ease-in-out;
+   
+   
+    
+}
+#btn-1:hover{
+    opacity: 1;
+    border: 2px solid orangered;
+    font-size: 30px;
+    left: 140px;
+    bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+#btn-2{
+    position: absolute;
+    left: 180px;
+    bottom: 115px;
+    background-color: transparent;
+    border: 2px solid gray;
+    font-size: 20px;
+    color: white;
+    opacity: 0.5;
+    transition: 0.5s ease-in-out;
+   
+
+}
+#btn-2:hover{
+    opacity: 1;
+    border: 2px solid orangered;
+    font-size: 30px;
+    left: 140px;
+    bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+#btn-3{
+    position: absolute;
+    left: 180px;
+    bottom: 115px;
+    background-color: transparent;
+    border: 2px solid gray;
+    font-size: 20px;
+    color: white;
+    opacity: 0.5;
+    transition: 0.5s ease-in-out;
+   
+
+}
+#btn-3:hover{
+    opacity: 1;
+    border: 2px solid orangered;
+    font-size: 30px;
+    left: 140px;
+    bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+#btn-4{
+    position: absolute;
+    left: 180px;
+    bottom: 115px;
+    background-color: transparent;
+    border: 2px solid gray;
+    font-size: 20px;
+    color: white;
+    opacity: 0.5;
+    transition: 0.5s ease-in-out;
+   
+
+}
+#btn-4:hover{
+    opacity: 1;
+    border: 2px solid orangered;
+    font-size: 30px;
+    left: 140px;
+    bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+

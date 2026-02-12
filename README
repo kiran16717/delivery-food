@@ -1,0 +1,38 @@
+🍔 Food Delivery Website
+
+This is a responsive and user-friendly Food Delivery Website developed using HTML, CSS, and JavaScript. 
+The website allows users to explore different food items, view details, add items to cart, and place orders.
+
+🚀 Features
+- Responsive design (Mobile + Desktop)
+- Interactive navigation bar
+- Food menu with images and pricing
+- Add to cart functionality
+- Clean and modern UI design
+- Smooth scrolling and animations
+
+🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome (for icons)
+
+📂 Project Structure
+- index.html
+- style.css
+- script.js
+- images/
+
+🎯 Objective
+The purpose of this project is to practice front-end development skills and build a real-world responsive web application.
+
+📸 Screenshots
+(Add project screenshots here)
+
+📌 Future Improvements
+- Backend integration (Node.js / PHP)
+- Database connectivity (MongoDB / MySQL)
+- Online payment gateway integration
+- User authentication system
+
+👨‍💻 Developed by: Kiran Maurya
